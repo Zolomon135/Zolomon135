@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zolomon135
-- 👀 I’m interested in coding and Bug killing🤭
+- 👀 I’m interested in coding and killing Bug 🤭
 - 🌱 I’m currently learning how to build a career as a Quality Assurance Engineer
 - 💞️ I’m looking to collaborate on Projects that will assist me in improving my skills
 
